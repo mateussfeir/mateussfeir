@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I find the challenge of staying ahead in the fast-evolving tech landscape exhilarating!
 
 ## Connect with me:
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mateus-sfeir-b65393152/)
+
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
