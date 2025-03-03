@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I'm currently studying Programming and Analysis at **George Brown College**.
-- 🔭 I’m currently working on a portfolio tracking application using Python and Django, check it out [here](https://www.bitbalance.ca)!
+- 🔭 I've been working on a portfolio tracking application using Python and Django, check it out [here](https://www.bitbalance.ca)!
 - 🌱 I’m in my 4th semester and really enjoy exploring the intersections of finance, blockchain, AI, and machine learning.
 - 💬 Ask me about anything tech-related, I'm always eager to discuss and learn more!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mateus-sfeir-b65393152/)
